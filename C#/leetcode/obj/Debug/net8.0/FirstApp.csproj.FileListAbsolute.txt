@@ -1,0 +1,14 @@
+/Users/stefaniapozzi/IT/C#/FirstApp/bin/Debug/net8.0/FirstApp
+/Users/stefaniapozzi/IT/C#/FirstApp/bin/Debug/net8.0/FirstApp.deps.json
+/Users/stefaniapozzi/IT/C#/FirstApp/bin/Debug/net8.0/FirstApp.runtimeconfig.json
+/Users/stefaniapozzi/IT/C#/FirstApp/bin/Debug/net8.0/FirstApp.dll
+/Users/stefaniapozzi/IT/C#/FirstApp/bin/Debug/net8.0/FirstApp.pdb
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/FirstApp.AssemblyInfoInputs.cache
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/FirstApp.AssemblyInfo.cs
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/FirstApp.csproj.CoreCompileInputs.cache
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/FirstApp.dll
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/refint/FirstApp.dll
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/FirstApp.pdb
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/FirstApp.genruntimeconfig.cache
+/Users/stefaniapozzi/IT/C#/FirstApp/obj/Debug/net8.0/ref/FirstApp.dll
