@@ -1,3 +1,3 @@
 # Leetcode exercises
 
-Leetcodes in C#, C++, java and rust!
+Leetcodes in C#, C++,
